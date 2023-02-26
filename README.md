@@ -10,4 +10,5 @@
 ## GitHub Link
 https://github.com/Dcao23/Daily-Scheduler
 
-## Live Repository
+## Live Repository Link
+https://dcao23.github.io/Daily-Scheduler/
